@@ -23,8 +23,8 @@
 	height: auto;
 }
 #smallPhoto {
-	width: 30px; /* Adjust the width as needed */
-	height: 30px; /* Maintain aspect ratio */
+	width: 20px; /* Adjust the width as needed */
+	height: 20px; /* Maintain aspect ratio */
 	border-radius: 50%;
 	body.subpage {
 		padding-top: 2px;
