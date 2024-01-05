@@ -1,0 +1,6 @@
+@media screen and (max-width: 1000px) {
+
+    .banner > article h2 {
+        font-size: 4rem !important;
+    }
+}
