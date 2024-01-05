@@ -4151,9 +4151,9 @@
 
 	@media screen and (max-width: 980px) {
 
-		body.subpage {
+		/* body.subpage {
 			padding-top: 44px;
-		}
+		} */
 
 		#header {
 			height: 44px;
