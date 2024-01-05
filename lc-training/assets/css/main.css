@@ -2,14 +2,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 
-/*
-	Hielo by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
-
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -20,14 +12,15 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+
 .image.fit img {
 	width: 100%;
 	height: auto;
 }
 
 #smallPhoto {
-	width: 25px; /* Adjust the width as needed */
-	height: 25px; /* Maintain aspect ratio */
+	width: 25px; 
+	height: 25px; 
 	border-radius: 100%;
 	body.subpage {
 		padding-top: 2px;
@@ -3422,7 +3415,7 @@
 		.wrapper.style4 {
 			background-color: #000;
 			color: #bfbfbf;
-			background-image: url(../../images/bg2.jpg);
+			background-image: url(../../images/bg.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -4627,7 +4620,7 @@
 }
 
 .copyright a:hover {
-	color: #FFF;
+	color: #ffffff;
 }
 
 		@media screen and (max-width: 736px) {
