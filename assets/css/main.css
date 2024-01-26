@@ -1988,8 +1988,8 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #f2f2f2;
-		color: #000 !important;
+		background-color: #db0000;
+		color: #ffffff !important;
 	}
 
 		input[type="submit"]:hover,
@@ -1997,7 +1997,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: white;
+			background-color: rgb(40, 128, 0);
 		}
 
 		input[type="submit"]:active,
@@ -2066,6 +2066,74 @@
 			.button.special:active {
 				background-color: #000000;
 			}
+
+			/* Contact */
+
+#contact {
+	display: -ms-flexbox;
+	-ms-flex-pack: justify;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	-moz-flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-moz-justify-content: space-between;
+	-webkit-justify-content: space-between;
+	-ms-justify-content: space-between;
+	justify-content: space-between;
+	background: #ececec;
+}
+
+	#contact form {
+		margin: 0;
+	}
+
+	#contact .icons {
+		margin-bottom: 1em;
+	}
+
+	#contact .column {
+		padding: 2.5em 0 1.5em 0;
+		padding-left: 3.5em;
+		padding-right: 3.5em;
+		width: 50%;
+	}
+
+		#contact .column.social {
+			background: #e6e6e6;
+		}
+
+		@media screen and (max-width: 980px) {
+
+			#contact .column {
+				padding: 2em 0 0.1em 0;
+				padding-left: 2em;
+				padding-right: 2em;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#contact .column {
+				width: 100%;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#contact .column {
+				padding: 1em 0 0.1em 0;
+				padding-left: 1em;
+				padding-right: 1em;
+			}
+
+		}
+
 
 /* Form */
 
