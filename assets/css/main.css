@@ -2758,7 +2758,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #8a4680;
+			background-color: #ac0000;
 			color: #e2d1df;
 		}
 
@@ -3588,7 +3588,7 @@
 				.wrapper.style4 input[type="button"].special,
 				.wrapper.style4 button.special,
 				.wrapper.style4 .button.special {
-					background-color: #8a4680;
+					background-color: #d40000;
 					color: #ffffff !important;
 				}
 
@@ -4379,7 +4379,7 @@
 /* Banner */
 
 .banner {
-	background-color: #8a4680;
+	background-color: #000000;
 	color: #e2d1df;
 	padding: 8em 0;
 	position: relative;
