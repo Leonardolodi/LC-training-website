@@ -1988,7 +1988,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #db0000;
+		background-color: #000000;
 		color: #ffffff !important;
 	}
 
@@ -2056,7 +2056,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #000000;
+				background-color: #493636;
 			}
 
 			input[type="submit"].special:active,
@@ -2801,7 +2801,7 @@
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
 				background-color: #f2f2f2;
-				color: #000 !important;
+				color: #000000 !important;
 			}
 
 				.wrapper.style1 input[type="submit"]:hover,
@@ -2835,7 +2835,7 @@
 					.wrapper.style1 input[type="button"].alt:hover,
 					.wrapper.style1 button.alt:hover,
 					.wrapper.style1 .button.alt:hover {
-						background-color: rgba(255, 255, 255, 0.075);
+						background-color: rgb(255, 255, 255);
 					}
 
 					.wrapper.style1 input[type="submit"].alt:active,
