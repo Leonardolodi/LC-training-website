@@ -2504,6 +2504,26 @@
 					font-size: 3rem;
 				}
 
+			ul.icons2 {
+					cursor: default;
+					list-style: none;
+					padding-left: 0;
+				}
+		
+				ul.icons2 li {
+						display: inline-block;
+						padding: 0 2rem 0 0;
+					}
+		
+					ul.icons2 li:last-child {
+							padding-right: 0;
+						}
+		
+					ul.icons2 li .icon:before {
+							font-size: 6rem;
+							color: #ffffff;
+						}
+
 		ul.actions {
 			cursor: default;
 			list-style: none;
@@ -3489,6 +3509,7 @@
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
+			filter: brightness(80%)
 		}
 
 			.wrapper.style4 input, .wrapper.style4 select, .wrapper.style4 textarea {
