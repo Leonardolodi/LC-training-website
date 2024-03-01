@@ -11,7 +11,7 @@ var settings = {
 
 		// Transition speed (in ms)
 		// For timing purposes only. It *must* match the transition speed of "#banner > article".
-			speed: 1500,
+			speed: 4000,
 
 		// Transition delay (in ms)
 			delay: 5000,

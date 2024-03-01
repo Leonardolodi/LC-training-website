@@ -4511,10 +4511,10 @@
 			}
 
 	.banner > article {
-		-moz-transition: opacity 1.5s ease, visibility 1.5s;
-		-webkit-transition: opacity 1.5s ease, visibility 1.5s;
-		-ms-transition: opacity 1.5s ease, visibility 1.5s;
-		transition: opacity 1.5s ease, visibility 1.5s;
+		-moz-transition: opacity 4s ease, visibility 4s;
+		-webkit-transition: opacity 4s ease, visibility 4s;
+		-ms-transition: opacity 4s ease, visibility 4s;
+		transition: opacity 4s ease, visibility 4s;
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
