@@ -4124,7 +4124,9 @@
 	}
 
 		#header > .logo {
-			display: inline-block;
+			display: flex;
+			align-items: center;
+			gap: 4px;
 			height: inherit;
 			left: 1.5em;
 			line-height: inherit;
@@ -4132,6 +4134,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
+
 		}
 
 			#header > .logo a {
